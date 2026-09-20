@@ -73,7 +73,17 @@ The project uses the **Sample Superstore dataset** containing sales transactions
 - Profit
 
 ---
+## 📌 Key Features
+- **KPI Cards** — Total Quantity (38K), Total Sales (2.30M), Total Profit (286.40K), Total Discount (1.56K)
+- **Total Profit by Month** — Trend line tracking profit across the year
+- **Total Quantity by City** — Top-performing cities by order volume
+- **Total Quantity by Category** — Donut chart breakdown (Office, Furniture, Tech)
+- **Total Profit by Region** — Regional profit distribution (West, East, South, Central)
+- **Total Sales by Sub-Category** — Bar chart ranking sub-categories by revenue
+- **Total Profit by State** — Geo map visualizing profit across the US
+- **Dynamic Filters** — City and Year slicers for interactive analysis
 
+---
 ## 🔄 Data Preparation
 
 Power Query was used to prepare the dataset before creating the dashboard.
