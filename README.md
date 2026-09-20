@@ -90,15 +90,6 @@ Power Query was used to prepare the dataset before creating the dashboard.
 
 ---
 
-## 📐 DAX Measures
-
-The dashboard uses DAX measures to calculate important business KPIs.
-
-### Total Sales
-
-```DAX
-Total Sales = SUM('Sample - Superstore'[Sales])
-
 ## 📬 Contact
 **Akanksha**
 - LinkedIn: [linkedin.com/in/akanksha-kumari-sinha](https://linkedin.com/in/akanksha-kumari-sinha)
